@@ -83,7 +83,7 @@ hashin==0.11.2 \
     --hash=sha256:aaf11abf155830b7c2b868bb6dbc5dfde49cd0b17a4c0dc1b8b67ca9f31ec490
 ipdb==0.10.3 \
     --hash=sha256:9ea256b4280fbe12840fb9dfc3ce498c6c6de03352eca293e4400b0dfbed2b28
-ipython==5.5.0 \
+ipython==8.10.0 \
     --hash=sha256:578e2f3d779ed130a3cfefc09b2eb965a81457f6a31a25cd38e0bab622d4777d \
     --hash=sha256:185ef2093dbac6d7250fe9ed4d4dd0f18f10d0a6ac6169f3eeb2ff0663d96b92 \
     --hash=sha256:66469e894d1f09d14a1f23b971a410af131daa9ad2a19922082e02e0ddfd150f
