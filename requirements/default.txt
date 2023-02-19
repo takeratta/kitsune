@@ -215,7 +215,7 @@ Jinja2==2.5.2 \
 kombu==3.0.32 \
     --hash=sha256:406c9f4cad1d11ac07b245ae215f6d8ee127db63e8331e0c87108bbaf1791c8e \
     --hash=sha256:d3edda02076ae04fa62d128007756f4c4298fe479119ca070a47a22afe867660
-lxml==3.4.4 \
+lxml==4.9.1 \
     --hash=sha256:2b139e9918936b7be5710263ece3e5eff886816cba547645817462291dbd7456 \
     --hash=sha256:a43ed8960677272dd278b10548bf3fc4954b002f3886fdf29d21d01b811b5616 \
     --hash=sha256:44108b64890d0fee3f05abdd85fe6f3ba015ff62be8caba1c7c4cb30a7f0e982 \
@@ -365,7 +365,7 @@ twython==3.2.0 \
     --hash=sha256:ab0dec52286677e944ddc00eaf6a0eb89af48b1a6696324ea29351342d1c483f
 urllib3==1.8 \
     --hash=sha256:1a89fa1b43d277cfadf228cc90b9c75f254818ea3a1aab7bffb0223cbb7bb15d
-Werkzeug==0.5.1 \
+Werkzeug==2.2.3 \
     --hash=sha256:ff638b44eaca81c9a1c8c492b957c1b8d1b44b2147e50216355ff9c99daa8637
 https://github.com/eventbrite/zendesk/archive/1b256c3b827a8f3c6bbd3bd1fc09b7b0e2e82347.tar.gz#egg=zendesk \
     --hash=sha256:a996b2d63d318e7c5ea9ff4a480a40db794321ea52b733ff6c6da57efb33ba3b
