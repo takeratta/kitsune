@@ -331,7 +331,7 @@ python-memcached==1.48 \
     --hash=sha256:66bbc62d9519f9d531b1f77e687d9f2f5e521cb906f1fd7231f403997e0110c4
 https://github.com/bltravis/python-recaptcha/archive/d7db50afc711ef623aec8e472ff55627e66fcd87.tar.gz#egg=python-recaptcha \
     --hash=sha256:7a9b60043aee61d6e5fdffc572c64314ea6d9ca09aff0d2f2a93ce7ba8d33b19
-Pygments==2.0.2 \
+Pygments==2.15.0 \
     --hash=sha256:0a3a2265e1efb0defa722d1f429730dc9df975adc3c60ac7d2b432bdf03c041d \
     --hash=sha256:5ded2fa9094fd7dfeb3da92636409fd702a0d07d606283504d7ee04401cee5cb \
     --hash=sha256:7320919084e6dac8f4540638a46447a3bd730fca172afc17d2c03eed22cf4f51
