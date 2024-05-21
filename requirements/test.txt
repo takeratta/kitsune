@@ -18,7 +18,7 @@ pytest-variables==1.4 \
     --hash=sha256:bd2e152e64c8f670e7969c76219a7842cf8ede795703127981ed71af38cfe08a
 pytest-xdist==1.15.0 \
     --hash=sha256:6238395f8bd050f9288a3b10f34330edece80f4424cf2b4204d6e7d622f0f00b
-requests==2.11.1 \
+requests==2.32.0 \
     --hash=sha256:545c4855cd9d7c12671444326337013766f4eea6068c3f0307fb2dc2696d580e \
     --hash=sha256:5acf980358283faba0b897c73959cecf8b841205bb4b2ad3ef545f46eae1a133
 selenium==3.0.1 \
