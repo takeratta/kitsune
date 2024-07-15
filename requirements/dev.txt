@@ -132,3 +132,4 @@ scandir==1.6 \
 ipython_genutils==0.2.0 \
     --hash=sha256:72dd37233799e619666c9f639a9da83c34013a73e8bbc79a7a6348d93c61fab8 \
     --hash=sha256:eb2e116e75ecef9d4d228fdc66af54269afa26ab4463042e33785b887c628ba8
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
